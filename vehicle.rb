@@ -1,3 +1,4 @@
+# something
 class Vehicle
   def initialize(color, type)
     @color = color
